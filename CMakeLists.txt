@@ -1,7 +1,7 @@
-cmake_minimum_required(VERSION 3.10)
+cmake_minimum_required(VERSION 3.20)
 project(skill)
 
-#add_subdirectory(Algorithms)
+add_subdirectory(Leetcode)
 #add_subdirectory(DesignPattern)
 #add_subdirectory(Framework)
 #add_subdirectory(Language)
